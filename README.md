@@ -1,4 +1,4 @@
-# pizza-client-mod        Mod Download: https://github.com/jsagfyqwgfiye/pizza-client-mod/blob/main/Pizza_Client-1.1.3.jar
+# pizza-client-mod        Mod Download: 
 pizza client is a mod for minecraft 1.8.9 hypixel skyblock and it has macro/hacks for most things in hypixel
 
 Most notable features: (all auras and nukers use fake rotation packets) -Qol ice fill (still somewhat wip, works great for 150 or less ping) -Spirit Bear Aura (with triggerbot once a spirit bear spawns) -Simon Says Aura -Good Terminals -Mithril Macro -Gemstone Macro (still wip) -Nuker (good to use on hypixel) -Powder Macro (everything automatic, uses nuker for the block breaking) -Crop Aura (auto places any crop)
